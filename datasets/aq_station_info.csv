@@ -1,0 +1,95 @@
+id,name,latitude,longitude
+131,Rotterdam-Zwartewaalstraat,51.893609999999995,4.48759
+176,Hellendoorn-Luttenbergerweg,52.388329999999996,6.402919
+29830,Strijensas Buitendijk,51.713396,4.583248
+29994,Vlaardingen-Riouwlaan,51.914883,4.329431
+29837,Arnhem Velperbroek,51.978328000000005,5.969485
+142,Posterholt-Vlodropperweg,51.11919,6.042399
+1127,Biddinghuizen-Kuilweg,52.423214,5.593380000000001
+121,HvHolland-Berghaven,51.97764,4.12124
+122,Maassluis-Kwartellaan,51.93207,4.22799
+124,Rotterdam-Hoogvliet,51.86742,4.35524
+126,Schiedam-A.Arienstraat,51.92139,4.40139
+127,Overschie-A13,51.93858,4.4307
+128,Rotterdam-Statenweg,51.92711,4.46136
+129,Rotterdam-Pleinweg,51.89113,4.480659999999999
+130,Rotterdam-Vasteland,51.912259999999996,4.47919
+29827,Maastricht - A2 Kasteel Hillenraadweg,50.85982,5.71382
+132,Ridderkerk-A16,51.86942,4.58007
+133,Den Haag-Rebecquestraat,52.077148,4.289185
+134,Rotterdam-Schiedamsevest,51.914233,4.479923
+136,Westmaas-Groeneweg,51.786578999999996,4.450529
+137,Dordrecht-Bamendaweg,51.800658,4.708239
+138,Den Haag-Amsterdamse Veerkade,52.075071,4.315872
+139,Den Haag-Bleriotlaan,52.039023,4.359376
+141,Rotterdam-Geulhaven,51.888999999999996,4.3125
+29838,Arnhem GelreDome,51.962296,5.897657
+143,Vredepeel-Vredeweg,51.54052,5.85307
+144,Wijnandsrade-Opfergeltstraat,50.90228,5.881748
+145,Heerlen-Looierstraat,50.88796,5.970496
+146,Heerlen-Jamboreepad,50.90032,5.986853
+147,Biest Houtakker-Biestsestraat,51.518440000000005,5.14845
+148,Huijbergen-Vennekenstraat,51.43444,4.3598349999999995
+149,Eindhoven-Genovevalaan,51.46866,5.47235
+150,Eindhoven-Noordbrabantlaan,51.44416,5.444833
+151,Breda-Tilburgseweg,51.59353,4.824944
+152,Breda-Bastenakenstraat,51.60308,4.781016
+155,Fijnaart-Zwingelspaansedijk,51.653729,4.515271
+156,Veldhoven-Europalaan,51.407365000000006,5.3933279999999995
+157,Zierikzee-Lange Slikweg,51.634706,3.9166230000000004
+158,Philippine-Stelleweg,51.294498,3.749484
+159,De Zilk-Vogelaarsdreef,52.296556,4.510816999999999
+161,Wieringerwerf-Medemblikkerweg,52.803419999999996,5.048975
+166,Zegveld-Oude Meije,52.13795,4.83819
+167,Utrecht-Kardinaal de Jongweg,52.105031,5.124464
+168,Utrecht-Constant Erzeijstraat,52.067747999999995,5.120507
+169,Breukelen-A2,52.20153,4.987444
+170,Utrecht-Griftpark,52.101308,5.128183
+171,Cabauw-Wielsekade,51.974489,4.923301
+172,Eibergen-Lintveldseweg,52.091801000000004,6.605367
+173,Wekerom-Riemterdijk,52.111621,5.708419
+174,Nijmegen-Graafseweg,51.841372,5.857777
+175,Nijmegen-Ruyterstraat,51.838221000000004,5.8569379999999995
+29872,Ridderkerk-Voorweg,51.861729,4.563812
+177,Barsbeek-De Veenen,52.654143999999995,6.017571
+178,Enschede-Winkelshorst,52.234504,6.919494
+179,Balk-Trophornsterweg,52.916915,5.573491000000001
+180,Valthermond-Noorderdiep,52.875725,6.932432
+181,Kollumerwaard-Hooge Zuidwal,53.330425,6.276815
+182,Groningen-Europaweg,53.21779599999999,6.578900999999999
+183,Groningen-Nijensteinheerd,53.246534999999994,6.608936999999999
+184,Amsterdam-Haarlemmerweg,52.385422,4.87575
+185,Amsterdam-Nieuwendammerdijk,52.389314,4.943822
+186,Amsterdam-Einsteinweg,52.381331,4.845233
+187,Amsterdam-Van Diemenstraat,52.389983,4.887811
+188,Amsterdam-Vondelpark,52.359714000000004,4.866208
+189,Amsterdam-Westerpark,52.393972,4.870157
+190,Amsterdam-Stadhouderskade,52.358039,4.8997
+191,Amsterdam-Oude Schans,52.372056,4.9044
+192,Amsterdam-Jan van Galenstraat,52.374786,4.8603190000000005
+193,Amsterdam -Kantershof,52.320692,4.988397
+194,Amsterdam-Ookmeer,52.366811,4.793344
+195,Zaanstad-Hemkade,52.42023,4.83206
+196,IJmuiden-Kanaalstraat,52.463039,4.601842
+197,Wijk aan Zee-De Banjaert,52.493992000000006,4.601986
+198,De Rijp-Oostdijkje,52.563590000000005,4.8617
+199,Badhoevedorp-Sloterweg,52.334003,4.774006
+200,Hoofddorp-Hoofdweg,52.3274501787129,4.71507132053375
+201,Oude Meer-Aalsmeerderdijk,52.28013,4.77082
+202,Beverwijk-Creutzberglaan,52.489303,4.640531
+203,Velsen-Staalstraat,52.4744,4.6288
+204,Velsen-Reyndersweg,52.478871,4.579343
+205,Zaandam-Wagenschotpad,52.448011,4.816706
+206,Spaarnwoude-Machineweg,52.398437,4.728581
+207,Ossendrecht-Burgemeester Voetenstraat,51.393289,4.3202367
+209,Moerdijk-Julianastraat,51.699409,4.6237129999999995
+210,Klundert-Kerkweg,51.668935499999996,4.541658999999999
+211,Zevenbergen-Galgenweg,51.653205,4.594882
+212,Zaanstad-Hoogtij,52.428000000000004,4.773
+213,Alblasserdam-Ruigenhil,51.8579,4.66012
+214,Geleen-Vouershof ,50.96309,5.81071
+215,Geleen-Asterstraat,50.98445,5.82224
+216,Maastricht - A2 Nassaulaan,50.84594,5.71475
+217,Horst a/d Maas - Hoogheide ,51.45412,6.10821
+218,Maastricht - Hoge Fronten,50.85205,5.6758
+219,Haarlem-Schipholweg,52.370508,4.6423190000000005
