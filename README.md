@@ -1,1 +1,1 @@
-This is my collection of assignments I tested my skills on over the course of university. At the moment, I'm working on a Data Mining assignment, which should be uploaded next week. Not all assignments are solo work, which is why sometimes only some of the exercises are solved. Feel free to ask any questions or write pull requests for improvements I could make!
+This is my collection of assignments I tested my skills on over the course of university.
